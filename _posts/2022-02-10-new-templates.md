@@ -13,7 +13,9 @@ title: Downloaded git blog templates.
 
 
 ### [list 특정 위치에 값 추가]
-<>
+
+<br>
+
 (상황: df에 list 추가하려는데 길이가 안맞을 때 맞춰주기 위함., np.nan을 삽입.
 ---
 list.insert(인덱스, 추가할 값)
