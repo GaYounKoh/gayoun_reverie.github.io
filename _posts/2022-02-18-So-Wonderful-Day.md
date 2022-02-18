@@ -1,6 +1,7 @@
 ---
 title:  "So Wonderful Day"
 excerpt: "Did well on my work"
+<!--break-->
 
 categories:
   - Blog
