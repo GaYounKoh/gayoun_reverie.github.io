@@ -9,12 +9,14 @@ tags:
 last_modified_at: 2022,02.23. 15:48:00
 ---
 
-# 2022.02.23, git blog 템플릿 fork 해둠.
----
+# 2022.02.23
 
 <i><b><q>중요한 내용</q></b>은 앞으로 뺌</i>
 <br>
 <u>underline test</u>
+<br>
+<br>
+<br>
 <hr>
 
 dots
@@ -30,16 +32,26 @@ dots
 
 '+ * * - * + - * + '
 
+<br>
+<br>
 
 _i test_
 =
 '_ _': i <br>
 'sth /n =' : header <br><br>
 
+
+<br>
+<br>
+
 ~~delete test~~
 
 '~~ ~~' : a line over text
 
+
+
+<br>
+<br>
 
 <q>quote test</q>
 
@@ -47,11 +59,17 @@ _i test_
 <q> </q> : quote
 ```
 
+<br>
+<br>
+
 <a>hyperlink test</a>
 
 ```
 <a> </a> : hyperlink
 ```
+
+<br>
+<br>
 
 <s>ignore test</s>
 
@@ -59,6 +77,9 @@ _i test_
 <s> </s> : line over text
 ```
 
+<br>
+<br>
+
 >test
 >>test
 >>>>test
@@ -83,8 +104,8 @@ _i test_
 >test
 ```
 
-
-
+<br>
+<br>
 
 <dd>tab???</dd>
 
@@ -92,11 +113,17 @@ _i test_
 <dd> </dd> : tab?
 ```
 
+<br>
+<br>
+
 <tt> font??? </tt>
 
 ```
 <tt> </tt> : font?
 ```
+
+<br>
+<br>
 
 `` a ``
 
