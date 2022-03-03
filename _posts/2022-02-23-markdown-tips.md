@@ -10,7 +10,7 @@ last_modified_at: 2022,03.03. 14:22:00 #2022,02.23. 15:48:00
 ---
 
 # add on 2022.03.03
-[Markdown other tips 1](https://hashcode.co.kr/questions/1772/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%9E%91%EC%84%B1-%ED%8C%81)
+[Markdown other tips 1 _ md로 code작성](https://hashcode.co.kr/questions/1772/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%9E%91%EC%84%B1-%ED%8C%81)
 
 [Markdown other tips 2](https://heropy.blog/2017/09/30/markdown/)
 

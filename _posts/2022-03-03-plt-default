@@ -18,7 +18,17 @@ last_modified_at: 2022,03.03. 16:01:00
 2. matplotlib pkg로 하는 방법: plt.rcdefaults() <br>
 위의 두 방법은 figure 사이즈가 변함. <br>
 3. matplotlib.rcParams.update() 함수를 사용하는 방법: matplotlib.rcParams.update(matplotlib.rcParamsDefault) <br>
-[rcParams 한 번에 쓰기]@(LSH`s library...)???? <br><br>
+[rcParams 한 번에 쓰기]~~@(LSH`s library...)~~ <br>
+```python
+sns.set(~~~, rc = {'':~~~, '':~~~, '':~~~}, ~~~)
+
+
+# 예시
+sns.set(font="NanumBarunGothic", 
+        rc={"axes.unicode_minus":False},
+        style='darkgrid')
+```
+<br><br>
 
 [Matplotlib의 구조](https://jrc-park.tistory.com/274) <br>
     ``` 
