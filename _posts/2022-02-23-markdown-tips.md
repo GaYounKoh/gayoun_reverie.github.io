@@ -14,6 +14,10 @@ last_modified_at: 2022,03.03. 14:22:00 #2022,02.23. 15:48:00
 
 [Markdown other tips 2](https://heropy.blog/2017/09/30/markdown/)
 
+[Markdown other tips 3 _ Emoji](https://github.com/jinkyukim-me/markdown_ko)
+
+[Markdown other tips 4 _ Font 한 태그 안에서 한 번에 설정하는 법](https://ingu627.github.io/md/markdown_grammar/)
+태그 안에서 ;로 나눠서
 
 # 2022.02.23
 
