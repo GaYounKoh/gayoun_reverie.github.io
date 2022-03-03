@@ -15,6 +15,7 @@ last_modified_at: 2022,03.03. 17:59:00 #2022,02.23. 15:48:00
 [Markdown other tips 2](https://heropy.blog/2017/09/30/markdown/)
 
 [Markdown other tips 3 _ Emoji](https://github.com/jinkyukim-me/markdown_ko)<br>
+[markdown cheat sheet](webfx.com/tools/emoji-cheat-sheet/)<br>
 :~~~: <br>
 
 [Markdown other tips 4 _ Font 한 태그 안에서 한 번에 설정하는 법](https://ingu627.github.io/md/markdown_grammar/)<br>
